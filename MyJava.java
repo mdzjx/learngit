@@ -9,7 +9,8 @@ public class MyJava
 		System.out.println("hei hei");	
 		System.out.println("This is my 2nd time to modify .java");
 		System.out.println("This is my 3rd time to modify .java");
-		System.out.println("This if my 4th time to modify .java");
+		System.out.println("This is my 4th time to modify .java");
+		System.out.println("This is my 5th time to modify .java");
 	}
 }
 
