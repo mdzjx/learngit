@@ -6,6 +6,8 @@ public class MyJava
 		for(i=0; i<100; i++)
 			sum+=i;	
 		System.out.println("Hello Chensir"+sum);
+		System.out.println("hei hei");	
+		System.out.println("This is my 2nd time to modify .java");
 	}
 }
 
